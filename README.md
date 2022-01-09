@@ -24,7 +24,7 @@ My Restaurant List Website. User can browse all the restaurants, check restauran
 1. Please confirm that both Node.js and npm are installed
 2. Clone this Repository to Local site
   ```
-  https://github.com/Irene289/restaurant_list.git
+  git clone https://github.com/Irene289/restaurant_list.git
   ```
 3. Open terminal and enter
   ```
