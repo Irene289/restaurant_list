@@ -9,14 +9,14 @@ My Restaurant List Website. User can browse all the restaurants, check restauran
   * Restaurant Image
   * Restaurant Name
   * Restaurant Category
- * Restaurant Rating
+  * Restaurant Rating
 * User can click any restaurant to check the details
   * Restaurant Category
   * Restaurant Location
   * Restaurant Google map link
   * Restaurant Phone
   * Restaurant Description
-* User can enter keywords in the search box to find restaurant, keywords includes:
+* User can enter keywords in the search box to find restaurant. Keywords include:
   * Restaurant Name
   * Restaurant Category
 
